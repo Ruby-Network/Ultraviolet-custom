@@ -1,5 +1,5 @@
 {
-	"name": "@titaniumnetwork-dev/ultraviolet",
+	"name": "@weeb-network/ultraviolet",
 	"version": "1.0.2",
 	"description": "Proxy",
 	"main": "lib/index.cjs",
