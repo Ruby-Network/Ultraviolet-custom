@@ -1,5 +1,5 @@
 {
-	"name": "@weeb-network/ultraviolet",
+	"name": "@unblocked-haven/ultraviolet",
 	"version": "1.0.2",
 	"description": "Proxy",
 	"main": "lib/index.cjs",
